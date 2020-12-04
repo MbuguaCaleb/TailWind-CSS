@@ -1,0 +1,25 @@
+{
+  "name": "beginning_tailwind",
+  "version": "1.0.0",
+  "description": "CSS TAILWIND LIBRARY",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MbuguaCaleb/TailWind-CSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MbuguaCaleb/TailWind-CSS/issues"
+  },
+  "homepage": "https://github.com/MbuguaCaleb/TailWind-CSS#readme",
+  "dependencies": {
+    "autoprefixer": "^9.8.6",
+    "postcss": "^8.1.14",
+    "tailwindcss": "^2.0.1"
+  }
+}
