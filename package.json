@@ -19,7 +19,7 @@
   "homepage": "https://github.com/MbuguaCaleb/TailWind-CSS#readme",
   "dependencies": {
     "autoprefixer": "^9.8.6",
-    "postcss": "^8.1.14",
+    "postcss": "^8.2.10",
     "tailwindcss": "^2.0.1"
   }
 }
